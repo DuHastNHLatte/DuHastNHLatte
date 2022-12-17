@@ -1,4 +1,3 @@
-[![MasterHead](https://media2.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif)]
 <h1 align="center">🦖 DuHastNHLatte
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DuHastNHLatte
