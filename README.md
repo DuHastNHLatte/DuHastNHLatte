@@ -1,15 +1,15 @@
-<h1 align="center">🦖 DuHastNHLatte
+<h1 align="center">:t_rex: DuHastNHLatte
 </h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DuHastNHLatte
 &label=Profile%20views&color=0e75b6&style=flat" alt="DuHastNHLatte" /> </p>
 
-- 🌀 I’m currently working on [syroxware.cc](https://syroxware.cc/)
+- :cyclone: I’m currently working on [syroxware.cc](https://syroxware.cc/)
 
-- 🌱 I’m currently learning [C++,HTML,javascript,PHP](https://visualstudio.microsoft.com/de/)
+- :seedling: I’m currently learning [C++,HTML,javascript,PHP](https://visualstudio.microsoft.com/de/)
 
-- 🤝 I’m working with [C#,C++,HTML,javascript](https://visualstudio.microsoft.com/de/)
+- :handshake: I’m working with [C#,C++,HTML,javascript](https://visualstudio.microsoft.com/de/)
 
-- 📫 How to reach me [Slayr#0001](https://discord.com/login)
+- :mailbox: How to reach me [Slayr#0001](https://discord.com/login)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +23,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DuHastNHLatte
 &show_icons=true&locale=en&layout=compact" alt="DuHastNHLatte" /></p>
-
