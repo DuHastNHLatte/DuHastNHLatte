@@ -1,7 +1,7 @@
 
 <h1 align="center">🦖 DuHastNHLatte
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=duhastnhlatte&label=Profile%20views&color=0e75b6&style=flat" alt="duhastnhlatte" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/duhastnhlatte" alt="duhastnhlatte" /> </p>
 
 - 🌀 I’m currently working on [syroxware.cc](https://syroxware.cc/)
 
